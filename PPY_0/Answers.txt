@@ -1,0 +1,9 @@
+Homework_0
+
+Code:
+
+
+JVM działa analogicznie do instrukcji CPU. Działa na kodzie ktory podaliśmy i nie wykonanie programu nie zmienia się odrazu jak zmieniamy kod, 
+czyli jest statyczna.
+Interpreter naodwrót działa dynamicznie, co pozwala na zmiane kodu i zobaczenie zmian in real-time, 
+bo zamiast rozłożenia kodu na byte-code operuje na streamu.
